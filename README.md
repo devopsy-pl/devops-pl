@@ -1,7 +1,6 @@
 ![logo.devopsy.pl](http://logo.devopsy.pl/1/cover.png)
 
-# devops-pl
-
+# [devopsy-pl | About project](https://devopsy-pl.github.io/devopsy-pl/)
 
 ## Nadchodzące Tematy:
 
