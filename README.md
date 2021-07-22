@@ -6,6 +6,27 @@
 
 1. czym jest dla kazdego z nas devops, skojarzenia, hashtagi
 
+• samozaangażowanie
+• samoorganizacja
+• wiekszy wpływ na architekture, zamiast tylko na kod
+
+Coś co nie było nazywane jako devops mogło być nazywane: 
+	turkusowa organizacja
+	lean management
+	…
+
+
+Jak rozmawiać o DevOps?
+Jaki konteksty znamy
+gdzie można podążać, skojarzenia
+
+Czynnik ludzki
+Architektura
+Sprzęt
+Oprogramowanie środowiskowe
+
+
+
 2. oferty pracy dla devopsow w europie
 
 3. po co/jak/kiedy zatrudniac devopsa, po co/jak/kiedy szkolic devopsa w organizacji
