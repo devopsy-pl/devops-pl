@@ -33,5 +33,16 @@ Oprogramowanie środowiskowe
 
 4. zespoly bez i zespoly z devopsami, specyfika, roznice, kultura, typy projektow, gdzie to norma
 
+
+
+
+---
+
+## Tom Sapletta
++ [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
++ [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
++ [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
+
+
 ---
 + [edit](https://github.com/devopsy-pl/devopsy-pl/edit/main/README.md)
