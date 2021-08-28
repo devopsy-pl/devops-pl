@@ -2,6 +2,9 @@
 
 # [devopsy-pl | About project](https://devopsy-pl.github.io/devopsy-pl/)
 
+# 1. Skojarzenia z DevOps
+Lipiec 2021
+
 ## Nadchodzące Tematy:
 
 1. czym jest dla kazdego z nas devops, skojarzenia, hashtagi
@@ -27,13 +30,25 @@ Oprogramowanie środowiskowe
 
 
 
-2. oferty pracy dla devopsow w europie
-
-3. po co/jak/kiedy zatrudniac devopsa, po co/jak/kiedy szkolic devopsa w organizacji
-
-4. zespoly bez i zespoly z devopsami, specyfika, roznice, kultura, typy projektow, gdzie to norma
 
 
+
+# 2. Oferty Pracy DevOps
+Sierpień 2021
+
+
+
+# 3.
+
+
+
+# ... kolejne w planach
+
+
+
++ po co/jak/kiedy zatrudniac devopsa, po co/jak/kiedy szkolic devopsa w organizacji
+
++ zespoly bez i zespoly z devopsami, specyfika, roznice, kultura, typy projektow, gdzie to norma
 
 
 ---
